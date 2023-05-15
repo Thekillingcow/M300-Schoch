@@ -16,6 +16,18 @@
             }
           },
           {
+            "id": "1ecaa9a9f53c01f1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Lokale Umgebung.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "b14d98dbe9c23d29",
             "type": "leaf",
             "state": {
@@ -26,9 +38,29 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "5a2ed201b15df0a7",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "46698b424b22592e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Vagrant.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -110,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Dokumentation von Robin Schoch.md",
+                "file": "Vagrant.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Dokumentation von Robin Schoch.md",
+                "file": "Vagrant.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +182,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Dokumentation von Robin Schoch.md"
+                "file": "Vagrant.md"
               }
             }
           }
@@ -173,8 +205,10 @@
       "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false
     }
   },
-  "active": "fcf74603a6356649",
+  "active": "46698b424b22592e",
   "lastOpenFiles": [
-    "Dokumentation von Robin Schoch.md"
+    "Lokale Umgebung.md",
+    "Dokumentation von Robin Schoch.md",
+    "Vagrant.md"
   ]
 }
