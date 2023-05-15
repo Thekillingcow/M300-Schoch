@@ -16,4 +16,4 @@ Dieses Enviroment habe ich dann mit diesem Befehl gestartet:
 
 `vagrant up --provider virtualbox`
 
-
+Anschliessend fing der Box download an. Dieser ging über das Schul Netzwerk wei gewohnt: sehr lange. 
