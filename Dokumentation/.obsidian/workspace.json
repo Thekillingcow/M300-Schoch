@@ -53,7 +53,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Vagrant.md",
+                "file": "Lokale Umgebung.md",
                 "mode": "source",
                 "source": false
               }
@@ -142,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Vagrant.md",
+                "file": "Lokale Umgebung.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Vagrant.md",
+                "file": "Lokale Umgebung.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,7 +182,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Vagrant.md"
+                "file": "Lokale Umgebung.md"
               }
             }
           }
@@ -207,8 +207,8 @@
   },
   "active": "46698b424b22592e",
   "lastOpenFiles": [
+    "Vagrant.md",
     "Dokumentation von Robin Schoch.md",
-    "Lokale Umgebung.md",
-    "Vagrant.md"
+    "Lokale Umgebung.md"
   ]
 }
