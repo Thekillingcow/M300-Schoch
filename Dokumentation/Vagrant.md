@@ -23,3 +23,6 @@ Folgend ein paar nützliche Commands in Vagrant:
 `Vagrant status`
 `Vagrant init`
 `Vagrant up`
+`Vagrant suspend`
+`Vagrant resume`
+`Vagrant destroy`
