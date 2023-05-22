@@ -11,8 +11,12 @@
             "id": "8cddd479bcc692ca",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Dokumentation von Robin Schoch.md",
+                "mode": "source",
+                "source": false
+              }
             }
           },
           {
@@ -59,8 +63,7 @@
               }
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -142,7 +145,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lokale Umgebung.md",
+                "file": "Dokumentation von Robin Schoch.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +162,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Lokale Umgebung.md",
+                "file": "Dokumentation von Robin Schoch.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,7 +185,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lokale Umgebung.md"
+                "file": "Dokumentation von Robin Schoch.md"
               }
             }
           }
@@ -205,10 +208,10 @@
       "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false
     }
   },
-  "active": "46698b424b22592e",
+  "active": "8cddd479bcc692ca",
   "lastOpenFiles": [
+    "Lokale Umgebung.md",
     "Vagrant.md",
-    "Dokumentation von Robin Schoch.md",
-    "Lokale Umgebung.md"
+    "Dokumentation von Robin Schoch.md"
   ]
 }
