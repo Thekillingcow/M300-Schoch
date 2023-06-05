@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dokumentation von Robin Schoch.md",
+                "file": "Lokale Umgebung.md",
                 "mode": "source",
                 "source": false
               }
@@ -145,7 +145,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Dokumentation von Robin Schoch.md",
+                "file": "Lokale Umgebung.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -162,7 +162,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Dokumentation von Robin Schoch.md",
+                "file": "Lokale Umgebung.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -185,7 +185,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Dokumentation von Robin Schoch.md"
+                "file": "Lokale Umgebung.md"
               }
             }
           }
@@ -210,8 +210,8 @@
   },
   "active": "8cddd479bcc692ca",
   "lastOpenFiles": [
+    "Dokumentation von Robin Schoch.md",
     "Lokale Umgebung.md",
-    "Vagrant.md",
-    "Dokumentation von Robin Schoch.md"
+    "Vagrant.md"
   ]
 }
