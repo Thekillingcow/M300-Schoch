@@ -26,3 +26,9 @@ Folgend ein paar nützliche Commands in Vagrant:
 `Vagrant suspend`
 `Vagrant resume`
 `Vagrant destroy`
+
+
+## Testumgebung
+
+Die Testumgebung wurde mit folgendem Vagrantfile erstellt. 
+``
