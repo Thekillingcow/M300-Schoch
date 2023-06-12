@@ -20,6 +20,16 @@
             }
           },
           {
+            "id": "58cdab7dc41d5df8",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.3.5"
+              }
+            }
+          },
+          {
             "id": "1ecaa9a9f53c01f1",
             "type": "leaf",
             "state": {
@@ -63,7 +73,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -208,7 +219,7 @@
       "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false
     }
   },
-  "active": "8cddd479bcc692ca",
+  "active": "58cdab7dc41d5df8",
   "lastOpenFiles": [
     "Dokumentation von Robin Schoch.md",
     "Lokale Umgebung.md",
