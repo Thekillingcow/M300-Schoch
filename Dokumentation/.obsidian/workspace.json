@@ -23,9 +23,11 @@
             "id": "58cdab7dc41d5df8",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.3.5"
+                "file": "Vagrant.md",
+                "mode": "source",
+                "source": false
               }
             }
           },
@@ -221,8 +223,8 @@
   },
   "active": "58cdab7dc41d5df8",
   "lastOpenFiles": [
-    "Dokumentation von Robin Schoch.md",
     "Lokale Umgebung.md",
+    "Dokumentation von Robin Schoch.md",
     "Vagrant.md"
   ]
 }
