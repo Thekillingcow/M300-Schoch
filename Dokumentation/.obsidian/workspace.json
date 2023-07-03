@@ -55,8 +55,7 @@
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -106,8 +105,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "d3e7a293f82fb23c",
@@ -203,12 +201,12 @@
       "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false
     }
   },
-  "active": "085d1b3062016e07",
+  "active": "58cdab7dc41d5df8",
   "lastOpenFiles": [
-    "Lokale Umgebung.md",
     "Dokumentation von Robin Schoch.md",
     "LB2 hands-on.md",
     "Vagrant.md",
+    "Lokale Umgebung.md",
     "20-Infrastruktur-Automatisierung.md",
     "10-Toolumgebung.md"
   ]

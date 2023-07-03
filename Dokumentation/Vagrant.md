@@ -33,7 +33,7 @@ Folgend ein paar nützliche Commands in Vagrant:
 Die Testumgebung wurde mit folgendem Vagrantfile erstellt. 
 
 ``` bash 
-agrant.configure("2") do |config|
+vagrant.configure("2") do |config|
 
   # The most common configuration options are documented and commented below.
 
