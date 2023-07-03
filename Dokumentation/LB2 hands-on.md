@@ -136,4 +136,4 @@ vagrant.configure("2") do |config|
 end
 ```
 
-Um den Webserver zum laufen zu bringen, musste ich natürlich noch den Port 80 auf den Host Port 8080 weiterleiten. Somit ist die Seite dann über localhost:8080 verfügbar und kann aufgerufen werden. Natülich müsste dann auch noch ein Index file hinzugefügt werden. 
+Um den Webserver zum laufen zu bringen, musste ich natürlich noch den Port 80 auf den Host Port 8080 weiterleiten. Somit ist die Seite dann über localhost:8080 verfügbar und kann aufgerufen werden. Natürlich müsste dann auch noch ein Index file hinzugefügt werden. 
