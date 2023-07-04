@@ -130,4 +130,4 @@ Die Datenbank bewirkt in dieser Konfiguration nicht viel. Der Webserver greift z
 Der Webserver ist über die IP 192.168.55.102 erreichbar, hat jedoch die IP 192.168.55.101. Dies wird über den eingerichteten Proxy erreicht. Um eine Website einzurichten ist der html Ordner mit dem Host gesynct. Auf diesem ist aktuell lediglich eine Standard HTML seite eingerichtet. Mit der Shell wird dann auf dem Server apache2 installiert und es werden 2 admins und eine admin Gruppe eingerichtet. Das Passwort für die Admins ist admin. ebenfalls wird  eine Firewall installiert, um nur noch https, http und SSH zuzulassen.
 
 ### Proxy
-Mit dem installierten Proxy Server kann die eigentliche IP des Webservers hinter der des Proxies verborgen werden. 
+Mit dem installierten Proxy Server kann die eigentliche IP des Webservers hinter der des Proxies verborgen werden. Anfragen auf die IP des Proxies "192.168.55.102" werden auf die IP des Webservers weitergeleitet. Die einrichtung der Weiterleitung ist im Vagrantfile ersichtlich. 
