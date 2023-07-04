@@ -1,10 +1,12 @@
-## Testumgebung
+## Umgebung
 
-Die Testumgebung wurde mit folgendem Vagrantfile erstellt. 
+Die Umgebung wurde mit folgendem Vagrantfile erstellt. 
 
 ``` 
+# -*- mode: ruby -*-
+# vi: set ft=ruby :
 
-```
+# Vagrantfile API/syntax version. Don't touch unless you know what you're doing!
 VAGRANTFILE_API_VERSION = "2"
 
 Vagrant.configure(VAGRANTFILE_API_VERSION) do |config|
@@ -117,5 +119,9 @@ sudo systemctl restart apache2
   end
 end
 
+```
 
-Um den Webserver zum laufen zu bringen, musste ich natürlich noch den Port 80 auf den Host Port 8080 weiterleiten. Somit ist die Seite dann über localhost:8080 verfügbar und kann aufgerufen werden. Natürlich müsste dann auch noch ein Index file hinzugefügt werden. 
+
+### Database
+
+Die Datenbank bewirkt in dieser Konfiguration nicht viel. Der Webserver greift zwar darauf zu, ermöglich
