@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Vagrant.md",
+                "file": "LB2 hands-on.md",
                 "mode": "source",
                 "source": false
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Vagrant.md",
+                "file": "LB2 hands-on.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -154,7 +154,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Vagrant.md",
+                "file": "LB2 hands-on.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -177,7 +177,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Vagrant.md"
+                "file": "LB2 hands-on.md"
               }
             }
           }
@@ -202,8 +202,8 @@
   },
   "active": "58cdab7dc41d5df8",
   "lastOpenFiles": [
-    "LB2 hands-on.md",
     "Vagrant.md",
+    "LB2 hands-on.md",
     "20-Infrastruktur-Automatisierung.md",
     "Dokumentation von Robin Schoch.md",
     "Lokale Umgebung.md",
