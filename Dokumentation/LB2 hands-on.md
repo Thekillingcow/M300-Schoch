@@ -124,4 +124,4 @@ end
 
 ### Database
 
-Die Datenbank bewirkt in dieser Konfiguration nicht viel. Der Webserver greift zwar darauf zu, ermöglich
+Die Datenbank bewirkt in dieser Konfiguration nicht viel. Der Webserver greift zwar darauf zu, benötigt sie jedoch nicht. 
