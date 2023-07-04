@@ -127,3 +127,4 @@ end
 Die Datenbank bewirkt in dieser Konfiguration nicht viel. Der Webserver greift zwar darauf zu, benötigt sie jedoch nicht. Jedoch habe ich dies trotzdem installiert und füge die Logs hier an: 
 
 ### Webserver
+Der Webserver ist über die IP 192.168.55.102 erreichbar, hat jedoch die IP 192.168.55.101. Dies wird über den eingerichteten Proxy erreicht. Um eine Website einzurichten ist der html Ordner mit dem Host gesynct. Auf diesem ist aktuell lediglich eine Standard HTML seite eingerichtet. Mit der Shell wird dann auf dem Server apache2 installiert und es werden 2 admins und eine admin Gruppe eingerichtet. Das Passwort für die Admins ist admin. ebenfalls wird  eine Firewall installiert, um nur noch https, http und SSH zuzulassen.
