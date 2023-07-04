@@ -124,4 +124,6 @@ end
 
 ### Database
 
-Die Datenbank bewirkt in dieser Konfiguration nicht viel. Der Webserver greift zwar darauf zu, benötigt sie jedoch nicht. 
+Die Datenbank bewirkt in dieser Konfiguration nicht viel. Der Webserver greift zwar darauf zu, benötigt sie jedoch nicht. Jedoch habe ich dies trotzdem installiert und füge die Logs hier an: 
+
+### 
