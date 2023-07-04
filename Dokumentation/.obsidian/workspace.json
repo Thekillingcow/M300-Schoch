@@ -11,11 +11,9 @@
             "id": "58cdab7dc41d5df8",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "LB2 hands-on.md",
-                "mode": "source",
-                "source": false
+                "file": "LB2 hands-on/Screenshots/2023-07-05 00_16_39-06 - apache_security_enabled.png"
               }
             }
           },
@@ -137,7 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "LB2 hands-on.md",
+                "file": "LB2 hands-on/Screenshots/2023-07-05 00_16_39-06 - apache_security_enabled.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -154,7 +152,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "LB2 hands-on.md",
+                "file": "LB2 hands-on/Screenshots/2023-07-05 00_16_39-06 - apache_security_enabled.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -177,7 +175,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "LB2 hands-on.md"
+                "file": "LB2 hands-on/Screenshots/2023-07-05 00_16_39-06 - apache_security_enabled.png"
               }
             }
           }
@@ -202,8 +200,13 @@
   },
   "active": "58cdab7dc41d5df8",
   "lastOpenFiles": [
+    "LB2 hands-on/LB2 hands-on.md",
+    "LB2 hands-on/Screenshots/2023-07-05 00_29_37-vagrant@web01_ ~.png",
+    "LB2 hands-on/Screenshots/2023-07-05 00_16_39-06 - apache_security_enabled.png",
+    "LB2 hands-on/Screenshots/2023-07-05 00_16_29-06 - apache_security_enabled.png",
+    "LB2 hands-on/Screenshots",
+    "LB2 hands-on",
     "Vagrant.md",
-    "LB2 hands-on.md",
     "20-Infrastruktur-Automatisierung.md",
     "Dokumentation von Robin Schoch.md",
     "Lokale Umgebung.md",

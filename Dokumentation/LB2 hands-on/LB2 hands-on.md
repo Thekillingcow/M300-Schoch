@@ -128,6 +128,18 @@ Die Datenbank bewirkt in dieser Konfiguration nicht viel. Der Webserver greift z
 
 ### Webserver
 Der Webserver ist über die IP 192.168.55.102 erreichbar, hat jedoch die IP 192.168.55.101. Dies wird über den eingerichteten Proxy erreicht. Um eine Website einzurichten ist der html Ordner mit dem Host gesynct. Auf diesem ist aktuell lediglich eine Standard HTML seite eingerichtet. Mit der Shell wird dann auf dem Server apache2 installiert und es werden 2 admins und eine admin Gruppe eingerichtet. Das Passwort für die Admins ist admin. ebenfalls wird  eine Firewall installiert, um nur noch https, http und SSH zuzulassen.
+web LOG:
+root@web01:~# cat /var/log/apache2/access.log
+192.168.55.1 - - [04/Jul/2023:22:12:44 +0000] "GET / HTTP/1.1" 200 3525 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36"
+192.168.55.1 - - [04/Jul/2023:22:12:44 +0000] "GET /icons/ubuntu-logo.png HTTP/1.1" 200 3623 "http://192.168.55.101/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36"
+root@web01:~#
+
 
 ### Proxy
 Mit dem installierten Proxy Server kann die eigentliche IP des Webservers hinter der des Proxies verborgen werden. Anfragen auf die IP des Proxies "192.168.55.102" werden auf die IP des Webservers weitergeleitet. Die einrichtung der Weiterleitung ist im Vagrantfile ersichtlich und wird in ein config File geschrieben, damit dieses nach einem Neustart einfach wieder abgerufen werden kann.  
+Proxy LOG:
+root@proxy01:/var/log/apache2# cat access.log
+192.168.55.1 - - [04/Jul/2023:22:12:39 +0000] "GET / HTTP/1.1" 200 3525 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36"
+192.168.55.1 - - [04/Jul/2023:22:12:39 +0000] "GET /icons/ubuntu-logo.png HTTP/1.1" 200 3623 "http://192.168.55.102/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36"
+192.168.55.1 - - [04/Jul/2023:22:12:39 +0000] "GET /favicon.ico HTTP/1.1" 404 492 "http://192.168.55.102/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36"
+root@proxy01:/var/log/apache2#
