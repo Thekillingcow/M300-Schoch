@@ -374,7 +374,7 @@ Sind Bestandteile von Packer, die das Ergebnis eines Builders oder eines anderen
     $ export PATH="$PATH:/Users[Dein-Benutzername]/packer"
 ```
 
-> #### Änderung und anzeigen der Umgebungsvariablen
+#### Änderung und anzeigen der Umgebungsvariablen
 >
 > Umgebungsvariablen können folgendermassen gesetzt und den anderen Prozessen innerhalb des Betriebssystems bekannt gemacht werden:
 >
@@ -385,7 +385,6 @@ Sind Bestandteile von Packer, die das Ergebnis eines Builders oder eines anderen
 >
 > Weitere Informationen zu Umgebungsvariablen:   
 > https://de.wikipedia.org/wiki/Umgebungsvariable#%C3%84nderung_der_Umgebungsvariablen
->
 
 6. Funktion von Packer testen:
 ```Shell
