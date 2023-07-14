@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "10 - Toolumgebung/M300 - 10 Toolumgebung.md",
+                "file": "10 - Toolumgebung/Lokale Umgebung.md",
                 "mode": "source",
                 "source": false
               }
@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "20-Infrastruktur-Automatisierung.md",
+                "file": "20 Infrastruktur-Automatisierung/M300 - 20 Infrastruktur-Automatisierung.md",
                 "mode": "source",
                 "source": false
               }
@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Vagrant.md",
+                "file": "10 - Toolumgebung/Vagrant first Setup.md",
                 "mode": "source",
                 "source": false
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "10 - Toolumgebung/M300 - 10 Toolumgebung.md",
+                "file": "10 - Toolumgebung/Lokale Umgebung.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -154,7 +154,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "10 - Toolumgebung/M300 - 10 Toolumgebung.md",
+                "file": "10 - Toolumgebung/Lokale Umgebung.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -177,7 +177,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "10 - Toolumgebung/M300 - 10 Toolumgebung.md"
+                "file": "10 - Toolumgebung/Lokale Umgebung.md"
               }
             }
           }
@@ -201,20 +201,21 @@
       "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false
     }
   },
-  "active": "58cdab7dc41d5df8",
+  "active": "97a1ab63e42c54d0",
   "lastOpenFiles": [
+    "10 - Toolumgebung/Vagrant first Setup.md",
+    "Dokumentation von Robin Schoch.md",
+    "20 Infrastruktur-Automatisierung/M300 - 20 Infrastruktur-Automatisierung.md",
+    "20 Infrastruktur-Automatisierung",
+    "10 - Toolumgebung/Screenshots/GitHub_36x36.png",
+    "10 - Toolumgebung/M300 - 10 Toolumgebung.md",
     "10 - Toolumgebung/Screenshots/2023-07-05 00_29_37-vagrant@web01_ ~.png",
     "LB2 hands-on/Screenshots/git_SSH_Key.png",
     "10 - Toolumgebung/Screenshots/git_SSH_Key.png",
-    "10 - Toolumgebung/Screenshots/GitHub_36x36.png",
-    "10 - Toolumgebung/M300 - 10 Toolumgebung.md",
     "10 - Toolumgebung/Screenshots",
-    "Vagrant.md",
     "ïmages",
     "10 - Toolumgebung",
-    "20-Infrastruktur-Automatisierung.md",
-    "Dokumentation von Robin Schoch.md",
-    "Lokale Umgebung.md",
+    "10 - Toolumgebung/Lokale Umgebung.md",
     "LB2 hands-on/Start LOG.md",
     "LB2 hands-on/LB2 hands-on.md",
     "LB2 hands-on/Screenshots/2023-07-05 00_16_29-06 - apache_security_enabled.png",

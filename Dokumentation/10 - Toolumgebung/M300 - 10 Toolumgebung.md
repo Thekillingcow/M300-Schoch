@@ -433,7 +433,7 @@ Nachfolgend wird die VM mit einem bereits abgeänderten File bzw. VM aus dem M30
       $ vagrant destroy -f
     ```
 7. Vagrant ist nun komplett einsatzfähig!
-
+![[10 - Toolumgebung/Screenshots/2023-07-05 00_29_37-vagrant@web01_ ~.png]]
 
 05 - Visual Studio Code
 ======
@@ -534,7 +534,7 @@ Typora bietet Ihnen eine nahtlose Erfahrung als Leser und Autor. Es entfernt das
 * [Typora](https://typora.io/)
 
 
-![](../images/Magnifier_36x36.png "Quellenverzeichnis") 06 - Quellenverzeichnis
+06 - Quellenverzeichnis
 ====== 
 ***
 
