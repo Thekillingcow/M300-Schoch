@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "M300 - 10 Toolumgebung ===================.md",
+                "file": "M300 - 10 Toolumgebung.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "M300 - 10 Toolumgebung ===================.md",
+                "file": "M300 - 10 Toolumgebung.md",
                 "mode": "source",
                 "source": false
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "M300 - 10 Toolumgebung ===================.md",
+                "file": "M300 - 10 Toolumgebung.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -155,7 +155,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "M300 - 10 Toolumgebung ===================.md",
+                "file": "M300 - 10 Toolumgebung.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -178,7 +178,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "M300 - 10 Toolumgebung ===================.md"
+                "file": "M300 - 10 Toolumgebung.md"
               }
             }
           }
@@ -208,7 +208,7 @@
     "Dokumentation von Robin Schoch.md",
     "Vagrant.md",
     "Lokale Umgebung.md",
-    "M300 - 10 Toolumgebung ===================.md",
+    "M300 - 10 Toolumgebung.md",
     "LB2 hands-on/Start LOG.md",
     "LB2 hands-on/LB2 hands-on.md",
     "LB2 hands-on/Screenshots/2023-07-05 00_16_29-06 - apache_security_enabled.png",
