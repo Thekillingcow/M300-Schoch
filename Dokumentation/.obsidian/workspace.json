@@ -23,9 +23,11 @@
             "id": "dc566a1105f79d49",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "LB2 hands-on/Screenshots/git_SSH_Key.png"
+                "file": "LB3 hands-on/LB3 hands-on.md",
+                "mode": "source",
+                "source": false
               }
             }
           },
@@ -148,7 +150,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "LB2 hands-on/Screenshots/git_SSH_Key.png",
+                "file": "LB3 hands-on/LB3 hands-on.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -165,7 +167,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "LB2 hands-on/Screenshots/git_SSH_Key.png",
+                "file": "LB3 hands-on/LB3 hands-on.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -188,7 +190,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "LB2 hands-on/Screenshots/git_SSH_Key.png"
+                "file": "LB3 hands-on/LB3 hands-on.md"
               }
             }
           }
@@ -213,16 +215,18 @@
   },
   "active": "dc566a1105f79d49",
   "lastOpenFiles": [
-    "LB2 hands-on/Screenshots/Pasted image 20230714190425.png",
+    "LB3 hands-on/Screenshots/git_SSH_Key.png",
+    "LB3 hands-on/Screenshots/Pasted image 20230714181059.png",
+    "LB3 hands-on/Screenshots/Pasted image 20230714181159.png",
+    "LB3 hands-on/Screenshots/Pasted image 20230714184406.png",
+    "LB3 hands-on/Screenshots/Pasted image 20230714190425.png",
     "LB3 hands-on/LB3 hands-on.md",
+    "LB3 hands-on/Screenshots",
     "LB2 hands-on/Screenshots/2023-07-05 00_29_37-vagrant@web01_ ~.png",
     "LB2 hands-on/Screenshots/2023-07-05 00_16_39-06 - apache_security_enabled.png",
     "LB2 hands-on/Screenshots/2023-07-05 00_16_29-06 - apache_security_enabled.png",
-    "LB2 hands-on/Screenshots/Pasted image 20230714184406.png",
-    "LB2 hands-on/Screenshots/Pasted image 20230714183651.png",
-    "LB2 hands-on/Screenshots/Pasted image 20230714181159.png",
-    "LB2 hands-on/Screenshots/Pasted image 20230714181059.png",
-    "LB2 hands-on/Screenshots/Pasted image 20230714181005.png",
+    "LB3 hands-on/Screenshots/Pasted image 20230714183651.png",
+    "LB3 hands-on/Screenshots/Pasted image 20230714181005.png",
     "10 - Toolumgebung/Vagrant first Setup.md",
     "10 - Toolumgebung/M300 - 10 Toolumgebung.md",
     "20 Infrastruktur-Automatisierung/M300 - 20 Infrastruktur-Automatisierung.md",
@@ -231,7 +235,6 @@
     "10 - Toolumgebung/Lokale Umgebung.md",
     "Dokumentation von Robin Schoch.md",
     "20 Infrastruktur-Automatisierung",
-    "10 - Toolumgebung/Screenshots/GitHub_36x36.png",
     "10 - Toolumgebung/Screenshots",
     "ïmages",
     "10 - Toolumgebung",
