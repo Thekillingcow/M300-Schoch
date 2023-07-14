@@ -52,7 +52,7 @@ Folgende Arbeiten müssen gemacht werden:
 1. Auf www.github.com ein Benutzerkonto erstellen (Angabe von Username, E-Mail und Passwort)
 2. E-Mail zur Verifizierung des Kontos bestätigen und anschliessend auf GitHub anmelden
 
-
+![[GitHub_36x36.png]]
 ### Repository erstellen
 ***
 1. Anmelden unter www.github.com 
@@ -139,7 +139,7 @@ Datei %HOME%/.ssh/id_rsa.pub oder $HOME/.ssh/id_rsa.pub in Zwischenablage kopier
 > **Wikipedia:**    https://en.wikipedia.org/wiki/Ssh-agent
 
 
-![](../images/Git_36x36.png "Git Client")  02 - Git Client
+02 - Git Client
 ======
 
 > [⇧ **Nach oben**](#inhaltsverzeichnis)
