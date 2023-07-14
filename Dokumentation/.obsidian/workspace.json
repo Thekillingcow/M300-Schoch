@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "M300 - 10 Toolumgebung.md",
+                "file": "Vagrant.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "M300 - 10 Toolumgebung.md",
+                "file": "10 - Toolumgebung/M300 - 10 Toolumgebung.md",
                 "mode": "source",
                 "source": false
               }
@@ -105,8 +105,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "d3e7a293f82fb23c",
@@ -138,7 +137,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "M300 - 10 Toolumgebung.md",
+                "file": "Vagrant.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -155,7 +154,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "M300 - 10 Toolumgebung.md",
+                "file": "Vagrant.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -178,7 +177,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "M300 - 10 Toolumgebung.md"
+                "file": "Vagrant.md"
               }
             }
           }
@@ -202,13 +201,15 @@
       "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false
     }
   },
-  "active": "58cdab7dc41d5df8",
+  "active": "97a1ab63e42c54d0",
   "lastOpenFiles": [
+    "ïmages",
+    "10 - Toolumgebung/M300 - 10 Toolumgebung.md",
+    "10 - Toolumgebung",
     "20-Infrastruktur-Automatisierung.md",
     "Dokumentation von Robin Schoch.md",
     "Vagrant.md",
     "Lokale Umgebung.md",
-    "M300 - 10 Toolumgebung.md",
     "LB2 hands-on/Start LOG.md",
     "LB2 hands-on/LB2 hands-on.md",
     "LB2 hands-on/Screenshots/2023-07-05 00_16_29-06 - apache_security_enabled.png",
