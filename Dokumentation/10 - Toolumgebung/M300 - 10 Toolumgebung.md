@@ -130,7 +130,7 @@ Datei %HOME%/.ssh/id_rsa.pub oder $HOME/.ssh/id_rsa.pub in Zwischenablage kopier
 5.  Im Formular unter <strong>Title</strong> eine Bezeichnung vergeben (z.B. MB SSH-Key)
 6.  Den zuvor kopierten Key mit <i>CTRL + V</i> einfügen und auf <strong>Add SSH key</strong> klicken
 7.  Der Schlüssel (SSH-Key) sollte nun in der übergeordneten Liste auftauchen
-
+![[LB2 hands-on/Screenshots/git_SSH_Key.png]]
 
 > Weiter Infos zu SSH-Keys in Zusammenhang mit GitHub und dem SSH-Agent findet man unter:
 
