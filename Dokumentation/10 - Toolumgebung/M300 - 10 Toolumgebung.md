@@ -252,7 +252,7 @@ $  git push                        #Upload bzw. Push wird durchgeführt
 ```
 
 
-![](../images/VirtualBox_36x36.png "VirtualBox")  03 - VirtualBox
+03 - VirtualBox
 ======
 
 > [⇧ **Nach oben**](#inhaltsverzeichnis)
@@ -330,7 +330,7 @@ Die virtuelle Maschine (VM) sollte nun soweit betriebsbereit sein, sprich der Zu
 9. Browser-Fenster schliessen und VM wieder herunterfahren/stoppen
 10. Mit dem Kapitel 4 (Vagrant) fortfahren
 
-![](../images/Vagrant_36x36.png "Vagrant")  04 - Vagrant
+04 - Vagrant
 ======
 
 > [⇧ **Nach oben**](#inhaltsverzeichnis)
@@ -435,7 +435,7 @@ Nachfolgend wird die VM mit einem bereits abgeänderten File bzw. VM aus dem M30
 7. Vagrant ist nun komplett einsatzfähig!
 
 
-![](../images/VisualStudioCode_36x36.png "Visual Studio Code") 05 - Visual Studio Code
+05 - Visual Studio Code
 ======
 
 > [⇧ **Nach oben**](#inhaltsverzeichnis)
