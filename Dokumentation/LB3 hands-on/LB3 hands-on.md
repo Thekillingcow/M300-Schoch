@@ -39,7 +39,7 @@ Zuerst eine Testumgebung bauen. Z.B. `Vagrantfile` aus [M300/docker](../docker/V
 	   d.pull_images "ghost:1-alpine"
 	   d.pull_images "adminer" 
 	  end
- 
+ - Provisioner in Vagrantfile angepasst![[Pasted image 20230714184406.png]]
 Um dann mittels Kommandozeile die richtigen Docker Befehle auszuprobieren. 
 
 	docker run -d -name <container> -p<ports> <images>
