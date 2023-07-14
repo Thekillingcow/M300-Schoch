@@ -38,7 +38,7 @@ Um sich im Filesystem zurechtzufinden, sind folgende Befehle nützlich:
 
 ___
 
-![](../images/GitHub_36x36.png "GitHub") 01 - GitHub Account 
+01 - GitHub Account 
 ======
 
 > [⇧ **Nach oben**](#inhaltsverzeichnis)
