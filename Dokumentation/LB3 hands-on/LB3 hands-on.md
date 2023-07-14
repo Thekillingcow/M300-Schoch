@@ -16,7 +16,6 @@ Alternative ist eine Native Installation von Docker mittels des Installationspro
 2. Vagrantfile aus github einfügen![[Pasted image 20230714181059.png]]
 3. Vagrant up![[Pasted image 20230714181159.png]]
 4. Fehlendes Docker compose![[Pasted image 20230714183651.png]]
-5. 
 ### Bestehende Docker Container kombinieren oder Container als Backend, Desktop App als Frontend 
 ***
 
