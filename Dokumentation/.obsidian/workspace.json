@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "10 - Toolumgebung/Vagrant first Setup.md",
+                "file": "LB3 hands-on/LB3 hands-on.md",
                 "mode": "source",
                 "source": false
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "10 - Toolumgebung/Vagrant first Setup.md",
+                "file": "LB3 hands-on/LB3 hands-on.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -167,7 +167,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "10 - Toolumgebung/Vagrant first Setup.md",
+                "file": "LB3 hands-on/LB3 hands-on.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -190,7 +190,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "10 - Toolumgebung/Vagrant first Setup.md"
+                "file": "LB3 hands-on/LB3 hands-on.md"
               }
             }
           }
@@ -199,8 +199,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -216,13 +215,14 @@
   },
   "active": "dc566a1105f79d49",
   "lastOpenFiles": [
+    "LB2 hands-on/Screenshots/Pasted image 20230714181005.png",
+    "10 - Toolumgebung/Vagrant first Setup.md",
     "10 - Toolumgebung/M300 - 10 Toolumgebung.md",
     "LB3 hands-on/LB3 hands-on.md",
     "20 Infrastruktur-Automatisierung/M300 - 20 Infrastruktur-Automatisierung.md",
     "LB3 hands-on",
     "Untitled",
     "10 - Toolumgebung/Lokale Umgebung.md",
-    "10 - Toolumgebung/Vagrant first Setup.md",
     "Dokumentation von Robin Schoch.md",
     "20 Infrastruktur-Automatisierung",
     "10 - Toolumgebung/Screenshots/GitHub_36x36.png",

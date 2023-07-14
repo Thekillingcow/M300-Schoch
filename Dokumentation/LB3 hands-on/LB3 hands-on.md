@@ -12,7 +12,8 @@ Das kann z.B. mittels den [github](https://github.com/mc-b/M300)-Beispielen mit 
 	docker run hello-world
 	
 Alternative ist eine Native Installation von Docker mittels des Installationsprogrammes von [docker.com](https://www.docker.com/community-edition)
-	
+1. Vagrantfile erstellen![[Pasted image 20230714181005.png]]
+2. Vagrantfile aus github einfügen
 ### Bestehende Docker Container kombinieren oder Container als Backend, Desktop App als Frontend 
 ***
 
